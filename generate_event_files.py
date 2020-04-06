@@ -7,16 +7,7 @@ sub_fold = [x for x in wd.iterdir() if x.is_dir()]
 out_path = Path('./processed_data')
 
 # read in and process word file
-word_excel = pd.read_excel('data/text_data_p2.xlsx', sheet_name=None)
-word_df = pd.DataFrame()
-for k in word_excel.keys():
-    word_df = pd.concat([word_excel[k], word_df])
-del word_excel
-word_df['Word'] = word_df.Word.str.lower()
-word_df['word_unique_id'] = word_df.SentenceID + '#' + word_df.CURRENT_FIX_INTEREST_AREA_ID.astype(str)
-
-# convert word file to pliers-friendly dictionary
-
+word_df = pd.read_csv(out_path / 'RBP_dictionary.txt', sep=',')
 
 # Iterate over subject paths
 for sub in sub_fold:
@@ -45,4 +36,4 @@ for sub in sub_fold:
     out_func_path = out_path / sub_id / 'func'
     out_func_path.mkdir(parents=True, exist_ok=True)
     out_filename = out_func_path  / event_filename
-    event_df.to_csv(save_path, sep='\t')
+    event_df.to_csv(out_filename, sep='\t')
