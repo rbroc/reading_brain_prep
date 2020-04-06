@@ -4,7 +4,7 @@
         "description_url": "https://openneuro.org/datasets/ds002247/versions/1.0.0",
         "source": ["https://doi.org/10.1016/j.jneuroling.2018.03.005", 
                    "https://www.nature.com/articles/s41598-019-47176-7"],
-        "url": "",
+        "url": "https://raw.githubusercontent.com/rbroc/reading_brain_prep/master/processed_data/RBP_dictionary.txt",
         "license": "https://creativecommons.org/share-your-work/public-domain/cc0/",
         "format": "csv",
         "language": "english",
