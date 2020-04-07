@@ -15,3 +15,7 @@ word_df['word_unique_id'] = word_df.SentenceID + '#' + word_df.CURRENT_FIX_INTER
 
 # convert word file to pliers-friendly dictionary
 word_df.to_csv(str(out_path / 'RBP_dictionary.txt'), sep=',')
+
+# store version without punctuation
+word_df['Word'] = word_df['Word'].str.replace('[^\w\s]','')
+word_df.to_csv(str(out_path / 'RBP_dictionary_nopunct.txt'), sep=',')
