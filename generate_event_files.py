@@ -32,6 +32,7 @@ for sub in sub_fold:
         event_df = pd.merge(event_df, word_df[['Word', 'word_unique_id']], on='word_unique_id')
         event_df = event_df.rename(columns = {'Word':'text'})
         event_df = event_df[['text', 'onset', 'duration']]
+        event_df['text'] = event_df['text'].str.replace('[^\w\s]','')
 
         # save new event file (tsv)
         out_func_path = out_path / sub_id / 'func'
