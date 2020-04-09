@@ -65,6 +65,8 @@ for sub in sub_fold:
                 wds = [text] * len(onsets)
                 agg_event_df = agg_event_df.append(pd.DataFrame(zip(wds, onsets, durations), 
                                                                 columns = ['text', 'onset', 'duration']))
+                                                                
+        # Store event files where consecutive fixations are collapsed
         out_event_filename = 'agg_' + str(event_filename)
         out_agg_filename = out_func_path  / out_event_filename
         agg_event_df.to_csv(out_agg_filename, sep='\t')
