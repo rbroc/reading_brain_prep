@@ -39,3 +39,32 @@ for sub in sub_fold:
         out_func_path.mkdir(parents=True, exist_ok=True)
         out_filename = out_func_path  / event_filename
         event_df.to_csv(out_filename, sep='\t')
+
+        # aggregate consecutive if gap < 1
+        agg_event_df = pd.DataFrame(columns=['text', 'onset', 'duration'])
+        for idx, group in event_df.groupby([(event_df.text != event_df.text.shift()).cumsum()]):
+            group = group.dropna()
+            onsets = []
+            durations = []
+            if group.shape[0] == 0:
+                pass
+            elif group.shape[0] == 1:
+                agg_event_df = agg_event_df.append(group, ignore_index=True)
+            else:
+                text = group['text'].values[0]
+                keep_idx = 0
+                for r in range(group.shape[0] - 1):
+                    offset_first = group['onset'].values[r] + group['duration'].values[r]
+                    onset_next = group['onset'].values[r + 1]
+                    if onset_next - offset_first > 1:
+                        onsets.append(group['onset'].values[keep_idx])
+                        durations.append(group['onset'].values[r] + group['duration'].values[r] - group['onset'].values[keep_idx])
+                if onsets == []:
+                    onsets.append(group['onset'].values[0])
+                    durations.append(group['onset'].values[-1] + group['duration'].values[-1] - group['onset'].values[0])
+                wds = [text] * len(onsets)
+                agg_event_df = agg_event_df.append(pd.DataFrame(zip(wds, onsets, durations), 
+                                                                columns = ['text', 'onset', 'duration']))
+        out_event_filename = 'agg_' + str(event_filename)
+        out_agg_filename = out_func_path  / out_event_filename
+        agg_event_df.to_csv(out_agg_filename, sep='\t')
