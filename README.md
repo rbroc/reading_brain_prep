@@ -1,4 +1,4 @@
-# Preprocessing of event files from Reading Brain Project 
+# Preprocessing event files from Reading Brain Project 
 
 Link to OpenNeuro: https://openneuro.org/datasets/ds002247/versions/1.0.0 </br>
 
