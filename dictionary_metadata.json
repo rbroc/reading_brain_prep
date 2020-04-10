@@ -1,10 +1,10 @@
 {
-    "affect": {
+    "reading_brain_project": {
         "title": "Word-level norms and IDs from Reading Brain Project",
         "description_url": "https://openneuro.org/datasets/ds002247/versions/1.0.0",
         "source": ["https://doi.org/10.1016/j.jneuroling.2018.03.005", 
                    "https://www.nature.com/articles/s41598-019-47176-7"],
-        "url": "https://raw.githubusercontent.com/rbroc/reading_brain_prep/master/processed_data/RBP_dictionary.txt",
+        "url": "https://raw.githubusercontent.com/rbroc/reading_brain_prep/master/processed_data/RBP_dictionary_nopunct.txt",
         "license": "https://creativecommons.org/share-your-work/public-domain/cc0/",
         "format": "csv",
         "language": "english",
@@ -18,15 +18,15 @@
         "columns_descriptions": [
           "Word (lowercase)",
           "Lemma",
-          "Unique ID of the sentence the word is part of",
+          "Unique ID of the sentence the word is presented within",
           "Position of the word in the sentence (Word ID within the sentence)",
           "Is it a content word? (binary)",
-          "Is it a non content / function word (binary, mostly opposite as previous)?",
+          "Is it a non content / function word? (binary, opposite as previous)",
           "Is it a numeral? (binary)",
           "Is it either a numeral or a non-content word (binary)",
-          "Target_Word?",
+          "Keywords or key concepts for the text",
           "Ortographic neighbourhood density from English Lexicon Project",
-          "Word length",
+          "Number of characters",
           "Mean lexical decision latency (in msec) from English Lexicon Project",
           "Mean naming latency (in msec) for a particular word across participants from English Lexicon Project",
           "Number of syllables",
@@ -35,8 +35,8 @@
           "Phonological neighbourhood density from English Lexicon Project",
           "Log frequency from HAL frequency norms",
           "Age of acquisition (from Kuperman et al. 2012 AoA database)",
-          "Number of Phonemes",
-          "PC1_Length?",
+          "Number of Phonemes from MRC",
+          "First principal component from number of characters, number of syllables, number of phonemes, phonological neighborhood and orthographic neighborhood",
           "Unique ID to cross-reference words and event files, i.e. SentenceID and Word joined with # as separator"
         ]
     }
