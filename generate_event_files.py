@@ -47,9 +47,9 @@ for sub in sub_fold:
             onsets = []
             durations = []
             if group.shape[0] == 0:
-                pass
+                continue
             elif group.shape[0] == 1:
-                agg_event_df = agg_event_df.append(group, ignore_index=True)
+                agg_event_df = agg_event_df.append(group, ignore_index=True).reset_index(drop=True)
             else:
                 text = group['text'].values[0]
                 keep_idx = 0
@@ -65,7 +65,7 @@ for sub in sub_fold:
                 wds = [text] * len(onsets)
                 agg_event_df = agg_event_df.append(pd.DataFrame(zip(wds, onsets, durations), 
                                                                 columns = ['text', 'onset', 'duration']),
-                                                                ignore_index=False)
+                                                                ignore_index=True).reset_index(drop=True)
                                                                 
         # Store event files where consecutive fixations are collapsed
         out_event_filename = 'agg_' + str(event_filename)
