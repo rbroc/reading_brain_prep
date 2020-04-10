@@ -31,9 +31,11 @@ for sub in sub_fold:
         event_df['word_unique_id'] = event_df.SentenceID + '#' + event_df.CURRENT_FIX_INTEREST_AREA_ID.astype(str)
         event_df = pd.merge(event_df, word_df[['Word', 'word_unique_id']], on='word_unique_id')
         event_df = event_df.rename(columns = {'Word':'text'})
+        event_df = event_df[~event_df.text.str.contains(r'[0-9]')] # remove lines with numerals
         event_df = event_df[['text', 'onset', 'duration']]
         event_df['text'] = event_df['text'].str.replace('[^\w\s]','')
-
+        event_df = event_df[event_df.text.str.len() != 0]
+        
         # save new event file (tsv)
         out_func_path = out_path / sub_id / 'func'
         out_func_path.mkdir(parents=True, exist_ok=True)
