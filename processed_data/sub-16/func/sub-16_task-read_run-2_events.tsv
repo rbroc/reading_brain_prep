@@ -1,211 +1,211 @@
-	text	onset	duration
-0	math	10.045	0.42
-1	concepts	10.483	0.182
-2	are	10.69	0.288
-3	permutations	11.016	0.311
-4	permutations	11.344	0.471
-5	and	11.841	0.271
-6	and	12.154	0.042
-7	combinations	13.92	0.162
-8	permutations	14.115	0.165
-9	similar	14.47	0.204
-10	several	14.707	0.505
-11	several	15.227	0.245
-12	both	17.11	0.163
-13	refer	17.294	0.159
-14	of	17.477	0.191
-15	objects	17.69	0.171
-16	pick	17.896	0.21
-17	arrange	18.14	0.343
-18	in	18.508	0.199
-19	in	18.719	0.39
-20	order	19.125	0.2
-21	set	21.05	0.16
-22	the	21.243	0.207
-23	the	23.1	0.069
-24	numbers	21.47	0.166
-25	through	21.662	0.224
-26	available	21.929	0.253
-27	pizza	22.209	0.345
-28	toppings	22.575	0.296
-29	permutations	25.073	0.67
-30	items	25.78	0.184
-31	selected	25.996	0.232
-32	selected	26.595	0.204
-33	selected	27.562	0.134
-34	from	26.25	0.32
-35	from	26.832	0.439
-36	from	28.396	0.099
-37	are	27.307	0.041
-38	are	28.166	0.196
-39	a	27.719	0.411
-40	for	29.938	0.222
-41	example	30.18	0.111
-42	select	30.322	0.274
-43	set	30.918	0.236
-44	the	31.179	0.198
-45	from	31.395	0.242
-46	count	31.675	0.337
-47	count	32.208	0.058
-48	count	32.303	0.034
-49	order	32.037	0.147
-50	and	32.441	0.06
-51	however	33.958	0.069
-52	however	34.05	0.151
-53	however	34.222	0.149
-54	combinations	34.395	0.198
-55	permutations	34.631	0.265
-56	calculated	34.931	0.24
-57	calculated	35.438	0.063
-58	differently	35.197	0.212
-59	when	36.943	0.235
-60	compute	37.209	0.493
-61	compute	37.72	0.282
-62	compute	39.505	0.414
-63	compute	39.94	0.223
-64	item	38.044	0.239
-65	item	40.47	0.227
-66	does	38.32	0.233
-67	does	38.904	0.276
-68	does	40.736	0.275
-69	order	38.581	0.297
-70	order	39.362	0.104
-71	order	41.651	0.339
-72	combination	40.19	0.247
-73	not	41.024	0.337
-74	not	41.376	0.239
-75	combination	43.645	0.209
-77	same	44.127	0.195
-78	combination	44.361	0.236
-79	combination	44.898	0.196
-80	another	47.085	0.248
-81	of	47.368	0.151
-82	combination	47.542	0.174
-83	combination	48.662	0.139
-84	picking	47.752	0.271
-85	picking	49.011	0.251
-86	picking	49.49	0.094
-87	example	48.371	0.262
-88	toppings	49.284	0.177
-89	suppose	51.036	0.226
-90	three	51.297	0.225
-91	toppings	51.547	0.162
-92	cheese	51.735	0.161
-93	and	51.932	0.162
-94	sausage	52.116	0.355
-95	you	53.954	0.243
-96	that	54.234	0.195
-97	pick	54.465	0.221
-98	you	54.707	0.21
-99	pepperoni	54.958	0.167
-100	pepperoni	55.383	0.103
-101	cheese	55.149	0.203
-102	here	56.926	0.205
-103	a	57.166	0.229
-104	three	57.435	0.215
-105	two	57.678	0.265
-106	different	57.97	0.551
-107	pizzas	60.012	0.216
-108	pizzas	61.111	0.178
-109	the	60.255	0.198
-110	but	60.475	0.173
-111	get	60.69	0.234
-112	you	60.944	0.141
-113	the	61.33	0.179
-114	because	61.544	0.239
-115	does	61.825	0.454
-116	does	62.478	0.137
-117	matter	62.637	0.156
-118	however	64.282	0.193
-119	matter	64.701	0.203
-120	compute	64.939	0.211
-121	permutation	65.175	0.475
-127	different	68.001	0.389
-128	of	68.411	0.317
-129	in	70.253	0.208
-130	permutations	70.486	0.18
-131	different	70.694	0.182
-132	orders	70.904	0.177
-133	have	71.106	0.15
-134	different	71.287	0.229
-135	meanings	71.538	0.131
-136	imagine	73.206	0.251
-137	can	73.484	0.172
-138	only	73.681	0.222
-139	lunch	73.937	0.268
-140	pizza	74.231	0.18
-141	pasta	74.433	0.167
-142	pasta	74.897	0.244
-143	pasta	75.426	0.27
-144	rice	74.621	0.248
-145	or	75.164	0.237
-146	or	75.723	0.259
-147	you	77.43	0.227
-148	is	77.68	0.199
-149	favorite	77.903	0.27
-150	rice	78.214	0.25
-151	least	78.496	0.165
-152	least	78.904	0.238
-153	your	78.684	0.2
-154	your	79.647	0.145
-155	favorite	79.164	0.454
-156	your	81.314	0.272
-157	preference	81.625	0.391
-159	pasta	82.342	0.316
-160	pasta	83.334	0.179
-161	pasta	84.022	0.279
-162	pasta	84.622	0.208
-163	and	82.684	0.158
-164	and	83.032	0.274
-166	pizza	86.449	0.167
-167	out	86.65	0.145
-168	runs	86.822	0.313
-169	waiter	87.172	0.243
-170	waiter	88.515	0.146
-171	you	87.449	0.196
-172	and	87.679	0.158
-173	not	87.861	0.265
-174	not	88.864	0.272
-175	give	88.167	0.32
-176	will	88.685	0.143
-177	your	90.811	0.184
-178	have	91.035	0.205
-179	different	91.266	0.186
-180	of	91.491	0.38
-181	preference	91.893	0.308
-182	friend	93.639	0.22
-183	order	93.895	0.19
-186	and	94.623	0.107
-187	and	94.78	0.104
-188	two	96.557	0.196
-189	the	96.79	0.251
-190	items	97.065	0.171
-191	something	97.258	0.209
-192	something	97.706	0.215
-193	different	97.508	0.171
-194	different	97.946	0.137
-195	permutation	99.56	0.66
-196	allows	100.251	0.281
-197	us	100.553	0.262
-198	count	100.843	0.23
-199	orders	101.338	0.262
-200	possible	101.623	0.324
-201	possible	102.236	0.22
-202	of	101.982	0.227
-203	items	102.485	0.163
-204	given	104.097	0.273
-205	numbers	104.397	0.247
-206	we	104.682	0.169
-207	derive	104.877	0.204
-208	permutations	105.101	0.247
-209	permutations	105.367	0.222
-210	permutations	105.611	0.282
-211	include	107.57	0.242
-225	these	114.325	0.252
-226	sequences	114.6	0.231
-227	in	114.852	0.25
-228	different	115.126	0.236
-229	are	115.394	0.185
-230	permutations	115.611	0.274
-231	permutations	116.114	0.1
-232	different	115.915	0.17
+text	onset	duration
+math	10.045	0.42
+concepts	10.483	0.182
+are	10.69	0.288
+permutations	11.016	0.311
+permutations	11.344	0.471
+and	11.841	0.271
+and	12.154	0.042
+combinations	13.92	0.162
+permutations	14.115	0.165
+similar	14.47	0.204
+several	14.707	0.505
+several	15.227	0.245
+both	17.11	0.163
+refer	17.294	0.159
+of	17.477	0.191
+objects	17.69	0.171
+pick	17.896	0.21
+arrange	18.14	0.343
+in	18.508	0.199
+in	18.719	0.39
+order	19.125	0.2
+set	21.05	0.16
+the	21.243	0.207
+the	23.1	0.069
+numbers	21.47	0.166
+through	21.662	0.224
+available	21.929	0.253
+pizza	22.209	0.345
+toppings	22.575	0.296
+permutations	25.073	0.67
+items	25.78	0.184
+selected	25.996	0.232
+selected	26.595	0.204
+selected	27.562	0.134
+from	26.25	0.32
+from	26.832	0.439
+from	28.396	0.099
+are	27.307	0.041
+are	28.166	0.196
+a	27.719	0.411
+for	29.938	0.222
+example	30.18	0.111
+select	30.322	0.274
+set	30.918	0.236
+the	31.179	0.198
+from	31.395	0.242
+count	31.675	0.337
+count	32.208	0.058
+count	32.303	0.034
+order	32.037	0.147
+and	32.441	0.06
+however	33.958	0.069
+however	34.05	0.151
+however	34.222	0.149
+combinations	34.395	0.198
+permutations	34.631	0.265
+calculated	34.931	0.24
+calculated	35.438	0.063
+differently	35.197	0.212
+when	36.943	0.235
+compute	37.209	0.493
+compute	37.72	0.282
+compute	39.505	0.414
+compute	39.94	0.223
+item	38.044	0.239
+item	40.47	0.227
+does	38.32	0.233
+does	38.904	0.276
+does	40.736	0.275
+order	38.581	0.297
+order	39.362	0.104
+order	41.651	0.339
+combination	40.19	0.247
+not	41.024	0.337
+not	41.376	0.239
+combination	43.645	0.209
+same	44.127	0.195
+combination	44.361	0.236
+combination	44.898	0.196
+another	47.085	0.248
+of	47.368	0.151
+combination	47.542	0.174
+combination	48.662	0.139
+picking	47.752	0.271
+picking	49.011	0.251
+picking	49.49	0.094
+example	48.371	0.262
+toppings	49.284	0.177
+suppose	51.036	0.226
+three	51.297	0.225
+toppings	51.547	0.162
+cheese	51.735	0.161
+and	51.932	0.162
+sausage	52.116	0.355
+you	53.954	0.243
+that	54.234	0.195
+pick	54.465	0.221
+you	54.707	0.21
+pepperoni	54.958	0.167
+pepperoni	55.383	0.103
+cheese	55.149	0.203
+here	56.926	0.205
+a	57.166	0.229
+three	57.435	0.215
+two	57.678	0.265
+different	57.97	0.551
+pizzas	60.012	0.216
+pizzas	61.111	0.178
+the	60.255	0.198
+but	60.475	0.173
+get	60.69	0.234
+you	60.944	0.141
+the	61.33	0.179
+because	61.544	0.239
+does	61.825	0.454
+does	62.478	0.137
+matter	62.637	0.156
+however	64.282	0.193
+matter	64.701	0.203
+compute	64.939	0.211
+permutation	65.175	0.475
+different	68.001	0.389
+of	68.411	0.317
+in	70.253	0.208
+permutations	70.486	0.18
+different	70.694	0.182
+orders	70.904	0.177
+have	71.106	0.15
+different	71.287	0.229
+meanings	71.538	0.131
+imagine	73.206	0.251
+can	73.484	0.172
+only	73.681	0.222
+lunch	73.937	0.268
+pizza	74.231	0.18
+pasta	74.433	0.167
+pasta	74.897	0.244
+pasta	75.426	0.27
+rice	74.621	0.248
+or	75.164	0.237
+or	75.723	0.259
+you	77.43	0.227
+is	77.68	0.199
+favorite	77.903	0.27
+rice	78.214	0.25
+least	78.496	0.165
+least	78.904	0.238
+your	78.684	0.2
+your	79.647	0.145
+favorite	79.164	0.454
+your	81.314	0.272
+preference	81.625	0.391
+pasta	82.342	0.316
+pasta	83.334	0.179
+pasta	84.022	0.279
+pasta	84.622	0.208
+and	82.684	0.158
+and	83.032	0.274
+pizza	86.449	0.167
+out	86.65	0.145
+runs	86.822	0.313
+waiter	87.172	0.243
+waiter	88.515	0.146
+you	87.449	0.196
+and	87.679	0.158
+not	87.861	0.265
+not	88.864	0.272
+give	88.167	0.32
+will	88.685	0.143
+your	90.811	0.184
+have	91.035	0.205
+different	91.266	0.186
+of	91.491	0.38
+preference	91.893	0.308
+friend	93.639	0.22
+order	93.895	0.19
+and	94.623	0.107
+and	94.78	0.104
+two	96.557	0.196
+the	96.79	0.251
+items	97.065	0.171
+something	97.258	0.209
+something	97.706	0.215
+different	97.508	0.171
+different	97.946	0.137
+permutation	99.56	0.66
+allows	100.251	0.281
+us	100.553	0.262
+count	100.843	0.23
+orders	101.338	0.262
+possible	101.623	0.324
+possible	102.236	0.22
+of	101.982	0.227
+items	102.485	0.163
+given	104.097	0.273
+numbers	104.397	0.247
+we	104.682	0.169
+derive	104.877	0.204
+permutations	105.101	0.247
+permutations	105.367	0.222
+permutations	105.611	0.282
+include	107.57	0.242
+these	114.325	0.252
+sequences	114.6	0.231
+in	114.852	0.25
+different	115.126	0.236
+are	115.394	0.185
+permutations	115.611	0.274
+permutations	116.114	0.1
+different	115.915	0.17

@@ -1,407 +1,407 @@
-	text	onset	duration
-0	can	9.73	0.182
-1	can	13.158	0.155
-2	engineers	9.933	0.21
-3	engineers	12.835	0.305
-4	help	10.168	0.214
-5	help	12.669	0.137
-6	help	13.352	0.173
-7	prevent	10.407	0.201
-8	of	10.634	0.159
-9	supertankers	10.819	0.158
-10	supertankers	11.588	0.339
-11	supertankers	11.963	0.202
-12	supertankers	12.186	0.433
-13	spills	11.241	0.182
-14	oil	11.451	0.11
-15	supertankers	15.181	0.161
-16	supertankers	15.366	0.16
-17	huge	15.547	0.199
-18	ships	15.768	0.153
-19	carry	15.945	0.14
-20	over	16.11	0.183
-21	the	16.32	0.22
-22	the	16.766	0.27
-23	oil	16.565	0.175
-24	a	18.475	0.183
-25	supertanker	18.679	0.219
-26	supertanker	18.92	0.2
-27	contain	19.142	0.172
-28	about	19.347	0.155
-29	halfmillion	19.524	0.199
-30	halfmillion	19.745	0.238
-31	halfmillion	19.999	0.202
-32	tons	20.219	0.263
-33	tons	20.689	0.375
-34	oil	21.087	0.204
-35	oil	21.618	0.956
-36	a	24.013	0.205
-37	supertanker	24.242	0.465
-38	supertanker	24.727	0.54
-39	the	25.288	0.223
-40	about	25.539	0.142
-41	football	25.709	0.275
-42	football	26.214	0.466
-43	football	26.697	0.221
-44	football	26.939	0.481
-45	five	26.004	0.185
-46	five	27.443	0.271
-47	supertanker	29.424	0.313
-48	supertanker	29.76	0.202
-49	cargo	29.984	0.161
-50	could	30.167	0.185
-51	hold	30.378	0.164
-52	empire	30.57	0.194
-53	empire	30.961	0.239
-54	state	30.786	0.147
-55	state	31.224	0.234
-56	building	31.483	0.613
-57	most	33.52	0.261
-58	of	33.803	0.203
-59	the	34.024	0.155
-60	world	34.202	0.2
-61	world	36.462	0.097
-62	oil	34.419	0.175
-63	transported	34.618	0.17
-64	transported	35.491	0.203
-65	these	34.815	0.273
-66	these	35.728	0.147
-67	by	35.111	0.359
-68	supertankers	35.899	0.511
-69	disasters	37.991	0.284
-70	disasters	38.297	0.196
-71	occur	38.514	0.322
-72	when	38.86	0.213
-73	supertankers	39.097	0.273
-74	supertankers	39.985	0.206
-75	supertankers	40.213	0.25
-76	wrecked	39.393	0.571
-77	spill	40.486	0.208
-78	oil	40.717	0.176
-79	into	40.917	0.462
-80	ocean	41.398	0.314
-81	as	43.145	0.412
-82	result	43.58	0.203
-83	these	43.807	0.454
-84	oil	44.284	0.164
-85	the	44.473	0.17
-86	environment	44.665	0.164
-87	environment	45.055	0.406
-88	is	44.854	0.181
-89	damaged	45.485	0.179
-92	supertanker	48.151	0.183
-93	supertanker	48.891	0.654
-94	supertanker	50.06	0.2
-95	supertanker	50.28	0.262
-96	crashed	48.359	0.147
-97	crashed	50.564	0.245
-98	crashed	51.034	0.27
-99	shores	48.546	0.148
-100	shores	51.503	0.365
-101	england	48.718	0.119
-102	england	51.896	0.489
-103	a	49.562	0.48
-104	near	50.834	0.18
-105	near	51.327	0.152
-106	this	53.82	0.263
-107	crash	54.103	0.279
-108	resulted	54.404	0.213
-109	in	54.639	0.232
-110	washing	54.888	0.188
-111	ashore	55.099	0.549
-117	dead	56.131	0.181
-118	dead	57.84	0.419
-119	seabirds	56.332	0.141
-120	seabirds	58.282	0.108
-121	in	59.825	0.184
-125	another	60.709	0.18
-126	supertanker	60.913	0.185
-127	supertanker	62.086	0.369
-128	spilled	61.125	0.158
-129	spilled	61.607	0.255
-130	spilled	61.883	0.175
-131	spilled	62.482	0.196
-132	alaska	61.311	0.255
-133	alaska	62.971	0.273
-134	oil	62.705	0.238
-135	coast	63.267	0.817
-136	the	65.513	0.228
-137	spilled	65.756	0.223
-138	spilled	66.331	0.142
-140	million	66.498	0.408
-141	million	67.443	0.189
-142	million	67.656	0.294
-143	million	69.415	0.215
-144	million	69.652	0.321
-145	gallons	66.93	0.279
-146	gallons	67.976	0.17
-147	gallons	69.998	0.426
-148	of	67.232	0.185
-149	caused	68.172	0.164
-150	caused	68.796	0.389
-151	caused	70.746	0.212
-152	caused	71.977	0.631
-157	oil	70.451	0.274
-158	otters	71.26	0.185
-159	otters	71.687	0.265
-160	to	71.465	0.198
-161	oil	74.267	0.326
-162	spills	74.611	0.337
-163	from	74.965	0.163
-164	from	76.739	0.264
-165	supertankers	75.152	0.241
-166	supertankers	77.03	0.131
-167	also	75.417	0.333
-168	also	76.494	0.209
-169	drifting	75.773	0.194
-170	drifting	76.281	0.19
-171	drifting	77.215	0.234
-172	drifting	77.468	0.244
-173	microscopic	75.99	0.266
-174	microscopic	77.738	0.347
-175	microscopic	78.373	0.317
-176	plants	78.113	0.236
-177	these	80.141	0.29
-178	plants	80.45	0.257
-179	provide	80.729	0.222
-180	provide	81.894	0.157
-181	food	80.974	0.206
-182	food	81.484	0.392
-183	food	82.073	0.286
-184	for	81.204	0.257
-185	sea	82.381	0.137
-186	such	82.552	0.236
-187	such	83.006	0.598
-188	whales	82.809	0.172
-189	whales	84.126	0.193
-190	as	83.624	0.481
-191	shrimp	84.341	0.146
-192	shrimp	84.914	0.16
-193	and	84.779	0.112
-194	plants	86.734	0.239
-195	plants	87.418	0.24
-196	also	86.995	0.398
-197	produce	87.682	0.218
-199	percent	88.219	0.103
-200	percent	88.777	0.822
-201	percent	89.618	0.299
-202	world	88.35	0.118
-203	oxygen	88.493	0.235
-204	oxygen	90.187	0.277
-205	the	89.941	0.215
-206	supply	90.488	0.487
-207	oil	92.434	0.77
-208	spills	93.226	0.178
-209	result	93.428	0.595
-210	partly	94.042	0.235
-211	from	94.294	0.153
-212	limitations	94.468	0.313
-213	limitations	94.802	0.091
-214	limitations	95.135	0.223
-215	engineering	94.918	0.181
-216	engineering	95.701	0.314
-217	in	95.382	0.296
-218	supertankers	97.639	0.19
-219	supertankers	97.855	0.304
-220	supertankers	98.183	0.422
-221	supertankers	98.612	0.062
-222	supertankers	98.7	0.34
-223	lack	99.058	0.301
-224	double	99.38	0.21
-225	bottom	99.614	0.211
-226	bottom	99.848	0.149
-227	bottom	100.474	1.022
-228	hulls	100.017	0.177
-229	hulls	101.521	0.29
-230	extra	100.219	0.212
-231	extra	102.066	0.305
-232	for	101.838	0.204
-233	protection	102.392	0.234
-234	protection	102.647	0.431
-235	supertankers	104.528	0.276
-236	supertankers	104.814	0.273
-237	supertankers	105.107	0.234
-238	lack	105.363	0.347
-239	extra	105.867	0.074
-240	power	106.119	0.127
-241	steering	106.269	0.331
-242	and	106.634	0.182
-243	equipment	106.843	0.203
-244	equipment	107.069	0.421
-245	safety	107.514	0.458
-246	safety	107.979	0.171
-247	for	108.172	0.071
-248	supertankers	109.665	0.351
-249	supertankers	110.034	0.295
-250	also	110.351	0.32
-251	have	110.693	0.129
-252	have	111.482	0.407
-253	only	110.846	0.273
-254	only	111.144	0.314
-255	only	111.911	0.138
-256	one	112.072	0.154
-257	to	112.27	0.158
-258	the	112.456	0.21
-259	provide	112.687	0.191
-260	provide	112.907	0.505
-261	provide	113.431	0.2
-262	ship	113.654	0.199
-263	power	113.876	0.583
-264	supertankers	115.903	0.314
-265	supertankers	116.232	0.56
-266	supertankers	116.814	0.155
-267	have	116.99	0.573
-268	only	117.584	0.182
-269	one	117.79	0.285
-270	propeller	118.098	0.133
-271	propeller	118.524	0.345
-272	steer	118.257	0.243
-273	steer	118.89	0.154
-274	steer	119.521	0.255
-275	the	119.067	0.432
-276	huge	119.799	0.253
-277	ship	120.073	0.486
-278	ship	120.572	0.171
-279	lack	122.175	0.165
-280	lack	122.356	0.353
-281	such	122.732	0.32
-282	such	126.819	0.095
-283	backup	123.073	0.215
-284	components	123.31	0.267
-285	components	123.595	0.141
-286	causes	123.764	0.214
-287	problems	124.002	0.296
-288	problems	124.789	0.259
-289	during	124.323	0.252
-290	during	124.597	0.17
-291	during	125.074	0.361
-292	emergencies	125.46	0.244
-293	emergencies	125.723	1.035
-294	emergencies	128.363	0.487
-295	emergencies	128.872	0.139
-296	for	129.03	0.306
-297	supertankers	129.358	0.211
-298	are	129.595	0.201
-299	ocean	129.82	0.261
-300	ocean	130.101	0.184
-301	and	130.315	0.193
-302	coastal	130.53	0.2
-303	coastal	131.17	0.255
-304	coastal	131.991	0.254
-305	storms	130.758	0.388
-306	storms	132.287	0.241
-307	reefs	131.448	0.268
-308	reefs	131.734	0.233
-309	solutions	133.951	0.207
-310	solutions	134.173	0.167
-311	problems	134.364	0.545
-312	problems	134.931	0.209
-313	with	135.157	0.2
-314	supertankers	135.381	0.44
-315	supertankers	136.259	0.207
-316	include	135.847	0.182
-317	include	136.486	0.094
-318	include	136.891	0.194
-319	tactics	136.055	0.173
-320	tactics	137.113	0.323
-321	three	136.605	0.254
-322	supertankers	138.872	0.432
-323	supertankers	139.327	0.549
-324	supertankers	140.417	0.129
-325	must	139.902	0.494
-326	be	140.57	0.217
-327	with	140.808	0.144
-328	with	141.24	0.255
-329	added	140.975	0.247
-330	added	143.751	0.219
-331	hulls	141.519	0.063
-332	hulls	143.557	0.17
-333	boilers	141.607	0.246
-334	boilers	141.873	0.134
-335	propellers	142.033	0.896
-336	propellers	142.951	0.554
-337	these	145.494	0.204
-338	provide	145.714	0.321
-339	provide	146.055	0.167
-340	extra	146.245	0.407
-341	safety	146.675	0.15
-342	control	146.847	0.205
-343	backup	147.075	0.411
-344	and	147.51	0.268
-345	emergencies	148.415	0.761
-346	emergencies	149.2	0.146
-347	also	150.765	0.207
-348	also	150.987	0.25
-349	officers	151.259	0.204
-350	officers	151.921	0.211
-351	need	151.487	0.411
-352	top	152.151	0.222
-353	training	152.406	0.466
-354	training	152.887	0.189
-355	run	153.101	0.284
-356	maneuver	153.421	0.29
-357	their	153.737	0.304
-358	ships	154.063	0.279
-359	supertanker	155.959	0.246
-360	supertanker	156.228	0.188
-361	simulators	156.435	0.276
-362	simulators	156.727	0.142
-363	simulators	157.229	0.08
-364	some	156.903	0.301
-365	facilities	157.336	0.14
-366	provide	157.5	0.21
-367	provide	157.954	0.254
-368	top	157.736	0.196
-369	training	158.235	0.355
-370	training	158.609	0.314
-371	finally	160.356	0.191
-372	finally	160.567	0.243
-373	ground	160.833	0.486
-374	control	161.343	0.322
-375	stations	161.686	0.171
-376	stations	161.878	0.082
-377	should	161.984	0.197
-378	installed	162.204	0.195
-379	the	162.425	0.178
-380	the	162.993	0.452
-381	the	163.608	0.289
-382	near	162.625	0.343
-383	shore	163.465	0.12
-384	ground	165.377	0.276
-385	control	165.673	0.19
-386	control	165.884	0.14
-387	stations	166.045	0.163
-388	would	166.227	0.24
-389	airplane	166.71	0.099
-390	control	166.834	0.466
-391	control	167.54	0.402
-392	towers	167.322	0.193
-393	they	169.363	0.388
-394	would	169.77	0.153
-395	guide	169.944	0.338
-396	supertankers	170.309	0.266
-397	safely	170.595	0.11
-398	the	170.726	0.275
-399	the	171.007	0.283
-400	on	171.31	0.161
-401	along	171.517	0.366
-402	along	172.161	0.382
-403	oceans	171.907	0.231
-404	coasts	172.563	0.29
-405	this	174.284	0.181
-406	this	174.48	0.243
-407	ensures	174.742	0.163
-408	safety	174.927	0.372
-409	safety	175.969	0.211
-410	in	175.319	0.24
-411	in	175.763	0.182
-412	shipping	175.581	0.156
-413	shipping	176.206	0.141
-414	and	176.371	0.131
-415	along	176.528	0.253
-416	along	177.996	0.225
-417	dangerous	176.808	0.117
-418	dangerous	177.73	0.243
-419	coasts	177.167	0.125
-420	coasts	177.313	0.393
-421	coasts	178.249	0.454
+text	onset	duration
+can	9.73	0.182
+can	13.158	0.155
+engineers	9.933	0.21
+engineers	12.835	0.305
+help	10.168	0.214
+help	12.669	0.137
+help	13.352	0.173
+prevent	10.407	0.201
+of	10.634	0.159
+supertankers	10.819	0.158
+supertankers	11.588	0.339
+supertankers	11.963	0.202
+supertankers	12.186	0.433
+spills	11.241	0.182
+oil	11.451	0.11
+supertankers	15.181	0.161
+supertankers	15.366	0.16
+huge	15.547	0.199
+ships	15.768	0.153
+carry	15.945	0.14
+over	16.11	0.183
+the	16.32	0.22
+the	16.766	0.27
+oil	16.565	0.175
+a	18.475	0.183
+supertanker	18.679	0.219
+supertanker	18.92	0.2
+contain	19.142	0.172
+about	19.347	0.155
+halfmillion	19.524	0.199
+halfmillion	19.745	0.238
+halfmillion	19.999	0.202
+tons	20.219	0.263
+tons	20.689	0.375
+oil	21.087	0.204
+oil	21.618	0.956
+a	24.013	0.205
+supertanker	24.242	0.465
+supertanker	24.727	0.54
+the	25.288	0.223
+about	25.539	0.142
+football	25.709	0.275
+football	26.214	0.466
+football	26.697	0.221
+football	26.939	0.481
+five	26.004	0.185
+five	27.443	0.271
+supertanker	29.424	0.313
+supertanker	29.76	0.202
+cargo	29.984	0.161
+could	30.167	0.185
+hold	30.378	0.164
+empire	30.57	0.194
+empire	30.961	0.239
+state	30.786	0.147
+state	31.224	0.234
+building	31.483	0.613
+most	33.52	0.261
+of	33.803	0.203
+the	34.024	0.155
+world	34.202	0.2
+world	36.462	0.097
+oil	34.419	0.175
+transported	34.618	0.17
+transported	35.491	0.203
+these	34.815	0.273
+these	35.728	0.147
+by	35.111	0.359
+supertankers	35.899	0.511
+disasters	37.991	0.284
+disasters	38.297	0.196
+occur	38.514	0.322
+when	38.86	0.213
+supertankers	39.097	0.273
+supertankers	39.985	0.206
+supertankers	40.213	0.25
+wrecked	39.393	0.571
+spill	40.486	0.208
+oil	40.717	0.176
+into	40.917	0.462
+ocean	41.398	0.314
+as	43.145	0.412
+result	43.58	0.203
+these	43.807	0.454
+oil	44.284	0.164
+the	44.473	0.17
+environment	44.665	0.164
+environment	45.055	0.406
+is	44.854	0.181
+damaged	45.485	0.179
+supertanker	48.151	0.183
+supertanker	48.891	0.654
+supertanker	50.06	0.2
+supertanker	50.28	0.262
+crashed	48.359	0.147
+crashed	50.564	0.245
+crashed	51.034	0.27
+shores	48.546	0.148
+shores	51.503	0.365
+england	48.718	0.119
+england	51.896	0.489
+a	49.562	0.48
+near	50.834	0.18
+near	51.327	0.152
+this	53.82	0.263
+crash	54.103	0.279
+resulted	54.404	0.213
+in	54.639	0.232
+washing	54.888	0.188
+ashore	55.099	0.549
+dead	56.131	0.181
+dead	57.84	0.419
+seabirds	56.332	0.141
+seabirds	58.282	0.108
+in	59.825	0.184
+another	60.709	0.18
+supertanker	60.913	0.185
+supertanker	62.086	0.369
+spilled	61.125	0.158
+spilled	61.607	0.255
+spilled	61.883	0.175
+spilled	62.482	0.196
+alaska	61.311	0.255
+alaska	62.971	0.273
+oil	62.705	0.238
+coast	63.267	0.817
+the	65.513	0.228
+spilled	65.756	0.223
+spilled	66.331	0.142
+million	66.498	0.408
+million	67.443	0.189
+million	67.656	0.294
+million	69.415	0.215
+million	69.652	0.321
+gallons	66.93	0.279
+gallons	67.976	0.17
+gallons	69.998	0.426
+of	67.232	0.185
+caused	68.172	0.164
+caused	68.796	0.389
+caused	70.746	0.212
+caused	71.977	0.631
+oil	70.451	0.274
+otters	71.26	0.185
+otters	71.687	0.265
+to	71.465	0.198
+oil	74.267	0.326
+spills	74.611	0.337
+from	74.965	0.163
+from	76.739	0.264
+supertankers	75.152	0.241
+supertankers	77.03	0.131
+also	75.417	0.333
+also	76.494	0.209
+drifting	75.773	0.194
+drifting	76.281	0.19
+drifting	77.215	0.234
+drifting	77.468	0.244
+microscopic	75.99	0.266
+microscopic	77.738	0.347
+microscopic	78.373	0.317
+plants	78.113	0.236
+these	80.141	0.29
+plants	80.45	0.257
+provide	80.729	0.222
+provide	81.894	0.157
+food	80.974	0.206
+food	81.484	0.392
+food	82.073	0.286
+for	81.204	0.257
+sea	82.381	0.137
+such	82.552	0.236
+such	83.006	0.598
+whales	82.809	0.172
+whales	84.126	0.193
+as	83.624	0.481
+shrimp	84.341	0.146
+shrimp	84.914	0.16
+and	84.779	0.112
+plants	86.734	0.239
+plants	87.418	0.24
+also	86.995	0.398
+produce	87.682	0.218
+percent	88.219	0.103
+percent	88.777	0.822
+percent	89.618	0.299
+world	88.35	0.118
+oxygen	88.493	0.235
+oxygen	90.187	0.277
+the	89.941	0.215
+supply	90.488	0.487
+oil	92.434	0.77
+spills	93.226	0.178
+result	93.428	0.595
+partly	94.042	0.235
+from	94.294	0.153
+limitations	94.468	0.313
+limitations	94.802	0.091
+limitations	95.135	0.223
+engineering	94.918	0.181
+engineering	95.701	0.314
+in	95.382	0.296
+supertankers	97.639	0.19
+supertankers	97.855	0.304
+supertankers	98.183	0.422
+supertankers	98.612	0.062
+supertankers	98.7	0.34
+lack	99.058	0.301
+double	99.38	0.21
+bottom	99.614	0.211
+bottom	99.848	0.149
+bottom	100.474	1.022
+hulls	100.017	0.177
+hulls	101.521	0.29
+extra	100.219	0.212
+extra	102.066	0.305
+for	101.838	0.204
+protection	102.392	0.234
+protection	102.647	0.431
+supertankers	104.528	0.276
+supertankers	104.814	0.273
+supertankers	105.107	0.234
+lack	105.363	0.347
+extra	105.867	0.074
+power	106.119	0.127
+steering	106.269	0.331
+and	106.634	0.182
+equipment	106.843	0.203
+equipment	107.069	0.421
+safety	107.514	0.458
+safety	107.979	0.171
+for	108.172	0.071
+supertankers	109.665	0.351
+supertankers	110.034	0.295
+also	110.351	0.32
+have	110.693	0.129
+have	111.482	0.407
+only	110.846	0.273
+only	111.144	0.314
+only	111.911	0.138
+one	112.072	0.154
+to	112.27	0.158
+the	112.456	0.21
+provide	112.687	0.191
+provide	112.907	0.505
+provide	113.431	0.2
+ship	113.654	0.199
+power	113.876	0.583
+supertankers	115.903	0.314
+supertankers	116.232	0.56
+supertankers	116.814	0.155
+have	116.99	0.573
+only	117.584	0.182
+one	117.79	0.285
+propeller	118.098	0.133
+propeller	118.524	0.345
+steer	118.257	0.243
+steer	118.89	0.154
+steer	119.521	0.255
+the	119.067	0.432
+huge	119.799	0.253
+ship	120.073	0.486
+ship	120.572	0.171
+lack	122.175	0.165
+lack	122.356	0.353
+such	122.732	0.32
+such	126.819	0.095
+backup	123.073	0.215
+components	123.31	0.267
+components	123.595	0.141
+causes	123.764	0.214
+problems	124.002	0.296
+problems	124.789	0.259
+during	124.323	0.252
+during	124.597	0.17
+during	125.074	0.361
+emergencies	125.46	0.244
+emergencies	125.723	1.035
+emergencies	128.363	0.487
+emergencies	128.872	0.139
+for	129.03	0.306
+supertankers	129.358	0.211
+are	129.595	0.201
+ocean	129.82	0.261
+ocean	130.101	0.184
+and	130.315	0.193
+coastal	130.53	0.2
+coastal	131.17	0.255
+coastal	131.991	0.254
+storms	130.758	0.388
+storms	132.287	0.241
+reefs	131.448	0.268
+reefs	131.734	0.233
+solutions	133.951	0.207
+solutions	134.173	0.167
+problems	134.364	0.545
+problems	134.931	0.209
+with	135.157	0.2
+supertankers	135.381	0.44
+supertankers	136.259	0.207
+include	135.847	0.182
+include	136.486	0.094
+include	136.891	0.194
+tactics	136.055	0.173
+tactics	137.113	0.323
+three	136.605	0.254
+supertankers	138.872	0.432
+supertankers	139.327	0.549
+supertankers	140.417	0.129
+must	139.902	0.494
+be	140.57	0.217
+with	140.808	0.144
+with	141.24	0.255
+added	140.975	0.247
+added	143.751	0.219
+hulls	141.519	0.063
+hulls	143.557	0.17
+boilers	141.607	0.246
+boilers	141.873	0.134
+propellers	142.033	0.896
+propellers	142.951	0.554
+these	145.494	0.204
+provide	145.714	0.321
+provide	146.055	0.167
+extra	146.245	0.407
+safety	146.675	0.15
+control	146.847	0.205
+backup	147.075	0.411
+and	147.51	0.268
+emergencies	148.415	0.761
+emergencies	149.2	0.146
+also	150.765	0.207
+also	150.987	0.25
+officers	151.259	0.204
+officers	151.921	0.211
+need	151.487	0.411
+top	152.151	0.222
+training	152.406	0.466
+training	152.887	0.189
+run	153.101	0.284
+maneuver	153.421	0.29
+their	153.737	0.304
+ships	154.063	0.279
+supertanker	155.959	0.246
+supertanker	156.228	0.188
+simulators	156.435	0.276
+simulators	156.727	0.142
+simulators	157.229	0.08
+some	156.903	0.301
+facilities	157.336	0.14
+provide	157.5	0.21
+provide	157.954	0.254
+top	157.736	0.196
+training	158.235	0.355
+training	158.609	0.314
+finally	160.356	0.191
+finally	160.567	0.243
+ground	160.833	0.486
+control	161.343	0.322
+stations	161.686	0.171
+stations	161.878	0.082
+should	161.984	0.197
+installed	162.204	0.195
+the	162.425	0.178
+the	162.993	0.452
+the	163.608	0.289
+near	162.625	0.343
+shore	163.465	0.12
+ground	165.377	0.276
+control	165.673	0.19
+control	165.884	0.14
+stations	166.045	0.163
+would	166.227	0.24
+airplane	166.71	0.099
+control	166.834	0.466
+control	167.54	0.402
+towers	167.322	0.193
+they	169.363	0.388
+would	169.77	0.153
+guide	169.944	0.338
+supertankers	170.309	0.266
+safely	170.595	0.11
+the	170.726	0.275
+the	171.007	0.283
+on	171.31	0.161
+along	171.517	0.366
+along	172.161	0.382
+oceans	171.907	0.231
+coasts	172.563	0.29
+this	174.284	0.181
+this	174.48	0.243
+ensures	174.742	0.163
+safety	174.927	0.372
+safety	175.969	0.211
+in	175.319	0.24
+in	175.763	0.182
+shipping	175.581	0.156
+shipping	176.206	0.141
+and	176.371	0.131
+along	176.528	0.253
+along	177.996	0.225
+dangerous	176.808	0.117
+dangerous	177.73	0.243
+coasts	177.167	0.125
+coasts	177.313	0.393
+coasts	178.249	0.454

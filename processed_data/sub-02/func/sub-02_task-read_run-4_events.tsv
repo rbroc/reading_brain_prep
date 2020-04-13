@@ -1,174 +1,174 @@
-	text	onset	duration
-0	positioning	9.605	0.375
-1	gps	10.029	0.241
-2	system	10.295	0.14
-3	system	10.471	0.24
-4	helps	10.737	0.187
-5	navigate	10.949	0.447
-6	a	12.814	0.2
-7	gps	13.038	0.102
-8	of	13.18	0.071
-9	of	16.453	0.082
-10	or	13.436	0.262
-13	satellites	13.899	0.188
-14	satellites	14.952	0.318
-15	satellites	15.491	0.299
-16	satellites	16.723	0.311
-17	more	14.111	0.079
-18	more	14.469	0.45
-19	space	15.823	0.207
-20	system	16.098	0.318
-21	satellites	18.502	0.242
-22	at	18.774	0.292
-24	above	19.301	0.312
-25	different	21.088	0.271
-26	different	22.328	0.059
-27	orbit	21.411	0.19
-28	earth	21.628	0.146
-29	different	21.801	0.206
-30	locations	22.034	0.083
-31	circle	23.806	0.247
-32	along	24.081	0.229
-33	of	24.344	0.173
-34	orbits	24.55	0.256
-35	continuously	25.019	0.058
-36	information	26.525	0.21
-37	information	27.014	0.057
-38	send	26.759	0.23
-39	gps	27.113	0.399
-40	information	28.994	0.188
-41	information	29.208	0.079
-42	transmitted	29.332	0.15
-43	space	29.521	0.207
-44	radio	29.754	0.21
-45	signals	31.413	0.257
-46	travel	31.695	0.22
-47	travel	33.768	0.223
-48	radio	31.953	0.131
-49	through	32.13	0.133
-50	space	32.285	0.19
-51	sound	32.503	0.289
-52	sound	32.811	0.248
-53	sound	33.078	0.092
-54	through	33.202	0.198
-55	canyon	33.434	0.255
-56	imagine	35.416	0.193
-57	your	35.637	0.177
-58	are	35.841	0.176
-59	different	36.052	0.17
-60	of	36.258	0.178
-61	shout	37.868	0.215
-62	shout	39.372	0.245
-63	friend	38.12	0.266
-64	friend	39.655	0.138
-65	a	38.632	0.211
-66	after	38.875	0.145
-67	short	39.052	0.086
-68	hears	39.823	0.136
-69	this	41.454	0.201
-70	time	41.683	0.183
-71	sound	41.894	0.339
-72	waves	42.257	0.11
-73	reach	42.409	0.199
-74	other	42.635	0.14
-75	the	44.24	0.21
-76	similarly	44.475	0.122
-77	in	44.638	0.145
-78	sends	44.809	0.179
-79	radio	45.013	0.167
-80	at	45.203	0.152
-81	time	45.373	0.091
-82	the	46.892	1.285
-83	signal	48.197	0.234
-84	arrives	48.453	0.178
-85	gps	48.653	0.244
-86	receiver	48.916	0.177
-87	receiver	50.545	0.218
-88	receiver	50.781	0.098
-89	receiver	52.305	0.089
-90	records	50.905	0.224
-91	precise	51.153	0.152
-92	time	51.328	0.172
-93	when	51.523	0.089
-94	signal	51.631	0.336
-95	the	51.989	0.229
-96	then	53.931	0.22
-97	calculates	54.191	0.2
-98	difference	54.417	0.179
-99	between	54.622	0.205
-100	between	55.271	0.162
-101	these	54.851	0.236
-102	two	55.108	0.143
-103	difference	56.883	0.288
-104	difference	57.188	0.763
-105	time	57.969	0.258
-106	radio	58.25	0.38
-107	this	60.052	0.184
-108	gps	60.272	0.061
-109	travel	60.366	0.212
-110	out	60.827	0.152
-111	far	61.017	0.187
-112	uses	62.654	0.204
-113	distance	62.894	0.164
-115	t	63.252	0.191
-116	rate	63.476	0.182
-117	rate	64.346	0.13
-118	transmission	63.686	0.3
-119	transmission	64.009	0.313
-120	travel	65.924	0.078
-121	time	66.019	0.209
-122	time	66.5	0.161
-123	time	67.601	0.146
-124	of	66.238	0.248
-125	the	66.959	0.182
-126	the	67.372	0.197
-127	is	67.152	0.209
-128	the	67.777	0.169
-129	signal	67.971	0.089
-130	the	69.493	0.24
-131	light	69.762	0.194
-134	miles	70.216	0.23
-135	c	71.979	0.195
-136	calculates	72.199	0.192
-137	calculates	72.844	0.216
-138	distance	72.419	0.4
-139	between	73.117	0.075
-140	receiver	73.413	0.057
-141	different	74.931	0.202
-142	satellites	75.163	0.216
-143	have	75.403	0.208
-144	different	75.633	0.188
-145	distances	75.845	0.23
-146	receiver	76.134	0.201
-147	information	77.8	0.213
-148	helps	78.041	0.172
-149	determine	78.245	0.163
-150	location	78.44	0.221
-151	location	80.085	0.199
-152	precise	80.311	0.105
-153	calculated	80.449	0.332
-154	of	80.812	0.161
-155	gps	82.404	0.223
-156	you	82.661	0.245
-157	you	83.896	0.186
-158	your	82.941	0.09
-159	is	83.233	0.159
-160	receiver	83.423	0.149
-161	device	83.644	0.215
-162	in	84.114	0.087
-163	signals	85.673	0.23
-164	the	85.931	0.162
-165	satellites	86.121	0.151
-166	updated	86.31	0.16
-167	device	86.497	0.162
-168	least	88.108	0.195
-169	satellites	88.338	0.171
-170	involved	88.548	0.166
-171	pinpoint	88.743	0.204
-172	device	88.985	0.086
-173	devices	90.51	0.252
-174	devices	90.776	0.177
-175	provide	90.985	0.202
-176	directions	91.215	0.194
-177	help	91.438	0.268
-178	people	91.744	0.118
+text	onset	duration
+positioning	9.605	0.375
+gps	10.029	0.241
+system	10.295	0.14
+system	10.471	0.24
+helps	10.737	0.187
+navigate	10.949	0.447
+a	12.814	0.2
+gps	13.038	0.102
+of	13.18	0.071
+of	16.453	0.082
+or	13.436	0.262
+satellites	13.899	0.188
+satellites	14.952	0.318
+satellites	15.491	0.299
+satellites	16.723	0.311
+more	14.111	0.079
+more	14.469	0.45
+space	15.823	0.207
+system	16.098	0.318
+satellites	18.502	0.242
+at	18.774	0.292
+above	19.301	0.312
+different	21.088	0.271
+different	22.328	0.059
+orbit	21.411	0.19
+earth	21.628	0.146
+different	21.801	0.206
+locations	22.034	0.083
+circle	23.806	0.247
+along	24.081	0.229
+of	24.344	0.173
+orbits	24.55	0.256
+continuously	25.019	0.058
+information	26.525	0.21
+information	27.014	0.057
+send	26.759	0.23
+gps	27.113	0.399
+information	28.994	0.188
+information	29.208	0.079
+transmitted	29.332	0.15
+space	29.521	0.207
+radio	29.754	0.21
+signals	31.413	0.257
+travel	31.695	0.22
+travel	33.768	0.223
+radio	31.953	0.131
+through	32.13	0.133
+space	32.285	0.19
+sound	32.503	0.289
+sound	32.811	0.248
+sound	33.078	0.092
+through	33.202	0.198
+canyon	33.434	0.255
+imagine	35.416	0.193
+your	35.637	0.177
+are	35.841	0.176
+different	36.052	0.17
+of	36.258	0.178
+shout	37.868	0.215
+shout	39.372	0.245
+friend	38.12	0.266
+friend	39.655	0.138
+a	38.632	0.211
+after	38.875	0.145
+short	39.052	0.086
+hears	39.823	0.136
+this	41.454	0.201
+time	41.683	0.183
+sound	41.894	0.339
+waves	42.257	0.11
+reach	42.409	0.199
+other	42.635	0.14
+the	44.24	0.21
+similarly	44.475	0.122
+in	44.638	0.145
+sends	44.809	0.179
+radio	45.013	0.167
+at	45.203	0.152
+time	45.373	0.091
+the	46.892	1.285
+signal	48.197	0.234
+arrives	48.453	0.178
+gps	48.653	0.244
+receiver	48.916	0.177
+receiver	50.545	0.218
+receiver	50.781	0.098
+receiver	52.305	0.089
+records	50.905	0.224
+precise	51.153	0.152
+time	51.328	0.172
+when	51.523	0.089
+signal	51.631	0.336
+the	51.989	0.229
+then	53.931	0.22
+calculates	54.191	0.2
+difference	54.417	0.179
+between	54.622	0.205
+between	55.271	0.162
+these	54.851	0.236
+two	55.108	0.143
+difference	56.883	0.288
+difference	57.188	0.763
+time	57.969	0.258
+radio	58.25	0.38
+this	60.052	0.184
+gps	60.272	0.061
+travel	60.366	0.212
+out	60.827	0.152
+far	61.017	0.187
+uses	62.654	0.204
+distance	62.894	0.164
+t	63.252	0.191
+rate	63.476	0.182
+rate	64.346	0.13
+transmission	63.686	0.3
+transmission	64.009	0.313
+travel	65.924	0.078
+time	66.019	0.209
+time	66.5	0.161
+time	67.601	0.146
+of	66.238	0.248
+the	66.959	0.182
+the	67.372	0.197
+is	67.152	0.209
+the	67.777	0.169
+signal	67.971	0.089
+the	69.493	0.24
+light	69.762	0.194
+miles	70.216	0.23
+c	71.979	0.195
+calculates	72.199	0.192
+calculates	72.844	0.216
+distance	72.419	0.4
+between	73.117	0.075
+receiver	73.413	0.057
+different	74.931	0.202
+satellites	75.163	0.216
+have	75.403	0.208
+different	75.633	0.188
+distances	75.845	0.23
+receiver	76.134	0.201
+information	77.8	0.213
+helps	78.041	0.172
+determine	78.245	0.163
+location	78.44	0.221
+location	80.085	0.199
+precise	80.311	0.105
+calculated	80.449	0.332
+of	80.812	0.161
+gps	82.404	0.223
+you	82.661	0.245
+you	83.896	0.186
+your	82.941	0.09
+is	83.233	0.159
+receiver	83.423	0.149
+device	83.644	0.215
+in	84.114	0.087
+signals	85.673	0.23
+the	85.931	0.162
+satellites	86.121	0.151
+updated	86.31	0.16
+device	86.497	0.162
+least	88.108	0.195
+satellites	88.338	0.171
+involved	88.548	0.166
+pinpoint	88.743	0.204
+device	88.985	0.086
+devices	90.51	0.252
+devices	90.776	0.177
+provide	90.985	0.202
+directions	91.215	0.194
+help	91.438	0.268
+people	91.744	0.118

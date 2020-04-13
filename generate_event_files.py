@@ -40,7 +40,7 @@ for sub in sub_fold:
         out_func_path = out_path / sub_id / 'func'
         out_func_path.mkdir(parents=True, exist_ok=True)
         out_filename = out_func_path  / event_filename
-        event_df.to_csv(out_filename, sep='\t')
+        event_df.to_csv(out_filename, sep='\t', index=False)
 
         # aggregate consecutive if gap < 1
         agg_event_df = pd.DataFrame(columns=['text', 'onset', 'duration'])
@@ -72,4 +72,4 @@ for sub in sub_fold:
         # Store event files where consecutive fixations are collapsed
         out_event_filename = 'agg_' + str(event_filename)
         out_agg_filename = out_func_path  / out_event_filename
-        agg_event_df.to_csv(out_agg_filename, sep='\t')
+        agg_event_df.to_csv(out_agg_filename, sep='\t', index=False)

@@ -1,212 +1,212 @@
-	text	onset	duration
-0	engineers	9.76	0.203
-1	design	9.983	0.341
-2	electrical	10.347	0.233
-3	electrical	11.749	0.071
-4	circuits	10.608	0.272
-5	power	10.905	0.202
-6	homes	11.129	0.303
-7	buildings	11.466	0.23
-8	electrical	13.389	0.237
-9	are	13.845	0.2
-10	closed	14.071	0.337
-11	that	14.433	0.192
-12	electricity	14.652	0.232
-13	flows	14.908	0.343
-14	through	15.278	0.193
-15	circuits	15.535	0.134
-16	this	17.122	0.219
-17	means	17.368	0.196
-18	entire	17.592	0.215
-19	must	17.834	0.23
-20	be	18.085	0.162
-21	connected	18.27	0.215
-22	a	18.512	0.208
-23	imagine	20.191	0.201
-24	a	20.415	0.151
-25	simple	20.593	0.179
-26	circuit	20.797	0.168
-27	with	20.989	0.193
-28	battery	21.205	0.206
-29	piece	21.446	0.218
-30	wire	21.685	0.088
-31	connect	23.227	0.355
-32	each	23.607	0.211
-33	the	23.844	0.313
-34	of	24.173	0.155
-35	to	24.356	0.222
-36	different	24.61	0.222
-37	ends	24.852	0.15
-38	battery	25.028	0.16
-39	piece	26.813	0.173
-40	piece	27.006	0.339
-41	piece	28.032	0.264
-42	wire	27.368	0.12
-43	wire	27.857	0.149
-44	wire	28.511	0.271
-45	your	28.307	0.169
-46	your	30.388	0.35
-47	battery	28.811	0.205
-48	make	29.045	0.252
-49	circle	29.319	0.239
-50	circle	29.582	0.189
-51	circular	29.791	0.301
-52	path	30.116	0.208
-53	one	32.201	0.235
-54	of	32.461	0.249
-55	battery	32.74	0.201
-56	positive	32.967	0.261
-57	other	33.262	0.286
-58	end	33.571	0.298
-59	electrons	35.556	0.21
-60	electrons	37.132	0.073
-61	will	35.794	0.21
-62	across	36.03	0.224
-63	this	36.283	0.257
-64	through	36.564	0.207
-65	the	36.801	0.268
-66	have	38.656	0.295
-67	created	38.975	0.175
-68	created	39.176	0.108
-69	electrical	39.32	0.27
-70	electrical	39.61	0.413
-71	removing	41.592	0.339
-72	wire	41.953	0.171
-73	from	42.147	0.175
-74	from	43.871	0.045
-75	battery	42.35	0.257
-76	stop	42.632	0.181
-77	the	42.832	0.179
-78	flow	43.033	0.276
-79	electrons	43.338	0.185
-80	the	43.588	0.254
-81	imagine	45.362	0.012
-82	imagine	46.989	0.16
-83	now	45.391	0.265
-84	that	45.69	0.201
-85	connect	46.101	0.241
-86	battery	46.368	0.214
-87	a	46.606	0.182
-88	lightbulb	46.803	0.125
-89	the	48.631	0.193
-90	first	48.842	0.237
-91	is	49.109	0.285
-92	middle	49.434	0.147
-93	middle	49.597	0.431
-94	breaks	50.055	0.282
-95	breaks	50.621	0.177
-96	circuit	50.37	0.223
-97	a	52.284	0.351
-98	lightbulb	52.663	0.16
-99	inserted	52.846	0.203
-100	reconnect	53.081	0.343
-101	reconnect	53.443	0.116
-102	circuit	53.597	0.165
-103	the	55.22	0.188
-104	electrical	55.431	0.193
-105	circuit	55.648	0.212
-106	complete	55.883	0.245
-107	complete	56.389	0.274
-108	again	56.155	0.215
-109	and	56.69	0.151
-110	electrons	56.868	0.235
-111	flowing	57.132	0.113
-112	electricity	58.689	0.292
-113	flows	59.009	0.272
-114	through	59.315	0.164
-115	lightbulb	59.51	0.223
-116	lighting	59.76	0.763
-117	the	61.975	0.253
-118	is	62.256	0.147
-119	broken	62.427	0.242
-120	lightbulb	62.702	0.256
-121	go	62.985	0.491
-122	can	64.944	0.317
-123	add	65.288	0.209
-124	switch	65.519	0.172
-125	circuit	65.725	0.261
-126	break	66.01	0.213
-127	or	66.247	0.157
-128	it	66.421	0.139
-129	connect	66.585	0.107
-130	this	68.163	0.215
-131	allows	68.401	0.17
-132	turn	68.598	0.231
-133	turn	68.859	0.184
-134	or	69.061	0.206
-135	off	69.292	0.224
-136	off	69.531	0.09
-137	lightbulb	69.656	0.378
-138	the	70.057	0.039
-139	simple	71.533	0.266
-140	electrical	71.823	0.196
-141	electrical	73.011	0.109
-142	circuit	72.045	0.187
-143	contains	72.262	0.211
-144	several	72.493	0.208
-145	parts	72.72	0.24
-146	these	74.585	0.202
-147	include	74.798	0.118
-148	source	74.941	0.28
-149	path	75.247	0.627
-150	resistor	75.904	0.439
-151	source	77.837	0.339
-152	the	78.205	0.204
-153	provides	78.424	0.178
-154	provides	79.679	0.158
-155	energy	78.634	0.266
-156	electrical	78.926	0.263
-157	electrical	79.21	0.2
-158	circuit	79.44	0.187
-159	example	81.307	0.091
-160	our	81.416	0.246
-161	above	81.693	0.239
-162	source	81.967	0.292
-163	battery	82.287	0.277
-164	batteries	84.026	0.32
-165	differ	84.375	0.224
-166	voltage	84.637	0.298
-167	electric	84.968	0.237
-168	potential	85.231	0.368
-169	force	85.632	0.042
-170	path	87.112	0.249
-171	the	87.386	0.191
-172	loop	87.604	0.183
-173	closed	87.794	0.194
-174	wires	88.02	0.417
-175	connect	88.463	0.236
-176	the	88.727	0.216
-177	source	88.967	0.061
-178	electrons	90.555	0.35
-179	flow	90.929	0.242
-180	path	91.205	0.257
-181	electric	91.485	0.422
-182	currents	91.939	0.186
-183	electric	93.567	0.286
-184	currents	93.88	0.169
-185	currents	94.854	0.135
-186	increase	94.078	0.22
-187	increased	94.332	0.228
-188	voltage	94.587	0.216
-189	resistor	96.436	0.287
-190	any	96.754	0.27
-191	that	97.055	0.267
-192	the	97.349	0.159
-193	electric	97.527	0.311
-194	current	97.861	0.114
-195	creates	99.505	0.19
-196	resistance	99.724	0.15
-197	resistance	99.901	0.175
-198	impedance	100.106	0.213
-199	the	100.358	0.167
-200	electrical	100.546	0.131
-201	our	102.174	0.259
-202	example	102.461	0.167
-203	the	102.653	0.193
-204	the	103.127	0.276
-205	resistor	103.429	0.197
-206	electric	105.076	0.285
-207	currents	105.385	0.245
-208	decrease	105.655	0.243
-209	increased	105.932	0.319
-210	resistance	106.285	0.327
+text	onset	duration
+engineers	9.76	0.203
+design	9.983	0.341
+electrical	10.347	0.233
+electrical	11.749	0.071
+circuits	10.608	0.272
+power	10.905	0.202
+homes	11.129	0.303
+buildings	11.466	0.23
+electrical	13.389	0.237
+are	13.845	0.2
+closed	14.071	0.337
+that	14.433	0.192
+electricity	14.652	0.232
+flows	14.908	0.343
+through	15.278	0.193
+circuits	15.535	0.134
+this	17.122	0.219
+means	17.368	0.196
+entire	17.592	0.215
+must	17.834	0.23
+be	18.085	0.162
+connected	18.27	0.215
+a	18.512	0.208
+imagine	20.191	0.201
+a	20.415	0.151
+simple	20.593	0.179
+circuit	20.797	0.168
+with	20.989	0.193
+battery	21.205	0.206
+piece	21.446	0.218
+wire	21.685	0.088
+connect	23.227	0.355
+each	23.607	0.211
+the	23.844	0.313
+of	24.173	0.155
+to	24.356	0.222
+different	24.61	0.222
+ends	24.852	0.15
+battery	25.028	0.16
+piece	26.813	0.173
+piece	27.006	0.339
+piece	28.032	0.264
+wire	27.368	0.12
+wire	27.857	0.149
+wire	28.511	0.271
+your	28.307	0.169
+your	30.388	0.35
+battery	28.811	0.205
+make	29.045	0.252
+circle	29.319	0.239
+circle	29.582	0.189
+circular	29.791	0.301
+path	30.116	0.208
+one	32.201	0.235
+of	32.461	0.249
+battery	32.74	0.201
+positive	32.967	0.261
+other	33.262	0.286
+end	33.571	0.298
+electrons	35.556	0.21
+electrons	37.132	0.073
+will	35.794	0.21
+across	36.03	0.224
+this	36.283	0.257
+through	36.564	0.207
+the	36.801	0.268
+have	38.656	0.295
+created	38.975	0.175
+created	39.176	0.108
+electrical	39.32	0.27
+electrical	39.61	0.413
+removing	41.592	0.339
+wire	41.953	0.171
+from	42.147	0.175
+from	43.871	0.045
+battery	42.35	0.257
+stop	42.632	0.181
+the	42.832	0.179
+flow	43.033	0.276
+electrons	43.338	0.185
+the	43.588	0.254
+imagine	45.362	0.012
+imagine	46.989	0.16
+now	45.391	0.265
+that	45.69	0.201
+connect	46.101	0.241
+battery	46.368	0.214
+a	46.606	0.182
+lightbulb	46.803	0.125
+the	48.631	0.193
+first	48.842	0.237
+is	49.109	0.285
+middle	49.434	0.147
+middle	49.597	0.431
+breaks	50.055	0.282
+breaks	50.621	0.177
+circuit	50.37	0.223
+a	52.284	0.351
+lightbulb	52.663	0.16
+inserted	52.846	0.203
+reconnect	53.081	0.343
+reconnect	53.443	0.116
+circuit	53.597	0.165
+the	55.22	0.188
+electrical	55.431	0.193
+circuit	55.648	0.212
+complete	55.883	0.245
+complete	56.389	0.274
+again	56.155	0.215
+and	56.69	0.151
+electrons	56.868	0.235
+flowing	57.132	0.113
+electricity	58.689	0.292
+flows	59.009	0.272
+through	59.315	0.164
+lightbulb	59.51	0.223
+lighting	59.76	0.763
+the	61.975	0.253
+is	62.256	0.147
+broken	62.427	0.242
+lightbulb	62.702	0.256
+go	62.985	0.491
+can	64.944	0.317
+add	65.288	0.209
+switch	65.519	0.172
+circuit	65.725	0.261
+break	66.01	0.213
+or	66.247	0.157
+it	66.421	0.139
+connect	66.585	0.107
+this	68.163	0.215
+allows	68.401	0.17
+turn	68.598	0.231
+turn	68.859	0.184
+or	69.061	0.206
+off	69.292	0.224
+off	69.531	0.09
+lightbulb	69.656	0.378
+the	70.057	0.039
+simple	71.533	0.266
+electrical	71.823	0.196
+electrical	73.011	0.109
+circuit	72.045	0.187
+contains	72.262	0.211
+several	72.493	0.208
+parts	72.72	0.24
+these	74.585	0.202
+include	74.798	0.118
+source	74.941	0.28
+path	75.247	0.627
+resistor	75.904	0.439
+source	77.837	0.339
+the	78.205	0.204
+provides	78.424	0.178
+provides	79.679	0.158
+energy	78.634	0.266
+electrical	78.926	0.263
+electrical	79.21	0.2
+circuit	79.44	0.187
+example	81.307	0.091
+our	81.416	0.246
+above	81.693	0.239
+source	81.967	0.292
+battery	82.287	0.277
+batteries	84.026	0.32
+differ	84.375	0.224
+voltage	84.637	0.298
+electric	84.968	0.237
+potential	85.231	0.368
+force	85.632	0.042
+path	87.112	0.249
+the	87.386	0.191
+loop	87.604	0.183
+closed	87.794	0.194
+wires	88.02	0.417
+connect	88.463	0.236
+the	88.727	0.216
+source	88.967	0.061
+electrons	90.555	0.35
+flow	90.929	0.242
+path	91.205	0.257
+electric	91.485	0.422
+currents	91.939	0.186
+electric	93.567	0.286
+currents	93.88	0.169
+currents	94.854	0.135
+increase	94.078	0.22
+increased	94.332	0.228
+voltage	94.587	0.216
+resistor	96.436	0.287
+any	96.754	0.27
+that	97.055	0.267
+the	97.349	0.159
+electric	97.527	0.311
+current	97.861	0.114
+creates	99.505	0.19
+resistance	99.724	0.15
+resistance	99.901	0.175
+impedance	100.106	0.213
+the	100.358	0.167
+electrical	100.546	0.131
+our	102.174	0.259
+example	102.461	0.167
+the	102.653	0.193
+the	103.127	0.276
+resistor	103.429	0.197
+electric	105.076	0.285
+currents	105.385	0.245
+decrease	105.655	0.243
+increased	105.932	0.319
+resistance	106.285	0.327
